@@ -7,6 +7,4 @@
   <li>🎥 Started a <a href="https://www.youtube.com/channel/UCYLo70tzoGibx13p9AjddfA">YouTube channel</a></li>
   <li>💬 Ping me via <a href="mailto:shane@shaneduffy.io">Email</a> or <a href="https://twitter.com/cppshane">Twitter</a></li>
   <li>🔑 GPG key: <code><a href="https://github.com/cppshane.gpg">09FA668969F4E20C</a></code></li>
-  <br>
-  <img src="https://img.anili.st/user/371396" width="500">
 </ul>
