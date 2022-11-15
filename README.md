@@ -1,5 +1,5 @@
 <img align="left" src="https://cdn.shaneduffy.io/shaneduffy/miku.gif" />
-<h2>🌎 <a href="https://shaneduffy.io">shaneduffy.io</a></h2>
+<h2>🚀 <a href="https://shaneduffy.io">shaneduffy.io</a></h2>
 <ul>
   <li>⚒️ C# / C++ / TypeScript / Angular / HTML / CSS </li>
   <li>🎓 Learning Blazor / <a href="https://ipfs.tech/">IPFS</a> / <a href="https://github.com/orbitdb">OrbitDB</a> </li>
