@@ -1,3 +1,4 @@
+
 <img align="left" src="https://cdn.shaneduffy.io/shaneduffy/miku.gif" />
 <h2>🚀 <a href="https://shaneduffy.io">shaneduffy.io</a></h2>
 <ul>
@@ -8,3 +9,7 @@
   <li>💬 Ping me via <a href="mailto:shane@shaneduffy.io">Email</a> or <a href="https://twitter.com/cppshane">Twitter</a></li>
   <li>🔑 GPG key: <code><a href="https://github.com/cppshane.gpg">09FA668969F4E20C</a></code></li>
 </ul>
+<h2>▶️ Latest Video</h2>
+<a align="center" href="https://youtu.be/O7fxxp_q0es">
+ <img src="https://cdn.shaneduffy.io/shaneduffy/youtube-embed.png" alt="Shane's latest video" width="660"/>
+</a>
