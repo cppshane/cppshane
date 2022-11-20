@@ -8,7 +8,7 @@
   <li>🎥 Started a <a href="https://www.youtube.com/channel/UCYLo70tzoGibx13p9AjddfA">YouTube channel</a></li>
   <li>💬 Ping me via <a href="mailto:shane@shaneduffy.io">Email</a> or <a href="https://twitter.com/cppshane">Twitter</a></li>
   <li>☕ Buy me a  <a href="https://www.buymeacoffee.com/cppshane">coffee</a></li>
-  <li>🪙 ERC-20: <code>0x44BC43BDF75AF64CFB1C5E32CDC2BA5AF4CC52E2</code>
+  <li>🪙 ETH: <code>0x44BC43BDF75AF64CFB1C5E32CDC2BA5AF4CC52E2</code>
   <li>🔑 GPG: <code><a href="https://github.com/cppshane.gpg">09FA668969F4E20C</a></code></li>
 </ul>
 <a align="center" href="https://youtu.be/O7fxxp_q0es">
