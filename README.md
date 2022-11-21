@@ -2,7 +2,7 @@
 <img align="left" src="https://cdn.shaneduffy.io/shaneduffy/miku.gif" />
 <h2>🚀 <a href="https://shaneduffy.io">shaneduffy.io</a></h2>
 <ul>
-  <li>⚒️ C# / C++ / TypeScript / Angular / HTML / CSS </li>
+  <li>⚒️ C# / C++ / JS / TS / Angular / HTML / CSS </li>
   <li>🎓 Learning Blazor / <a href="https://ipfs.tech/">IPFS</a> / <a href="https://github.com/orbitdb">OrbitDB</a> </li>
   <li>🧠 Want to learn Rust / ML</li>
   <li>🎥 Started a <a href="https://www.youtube.com/channel/UCYLo70tzoGibx13p9AjddfA">YouTube channel</a></li>
