@@ -11,6 +11,6 @@
   <li>🔗 ETH: <code>0x44BC43BDF75AF64CFB1C5E32CDC2BA5AF4CC52E2</code>
   <li>🔑 GPG: <code><a href="https://github.com/cppshane.gpg">09FA668969F4E20C</a></code></li>
 </ul>
-<a align="center" href="https://youtu.be/O7fxxp_q0es">
- <img src="https://cdn.shaneduffy.io/shaneduffy/github-embed.png" alt="Shane's latest video" width="100%"/>
+<a align="center" href="https://youtu.be/5gSqw18oSDM">
+ <img src="https://cdn.shaneduffy.io/misc/github-embed.png" alt="Shane's latest video" width="100%"/>
 </a>
