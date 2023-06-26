@@ -4,7 +4,7 @@
 <ul>
   <li>⚒️ C# / C++ / JS / TS / Angular / HTML / CSS </li>
   <li>🎓 Learning Blazor / <a href="https://ipfs.tech/">IPFS</a> / <a href="https://github.com/orbitdb">OrbitDB</a> </li>
-  <li>🧠 Want to learn <a href="https://python.langchain.com/en/latest/index.html">LangChain</a> / ML</li>
+  <li>🧠 Want to learn <a href="https://python.langchain.com/en/latest/index.html">LangChain</a> /  Rust / Tauri</li>
   <li>🎥 Started a <a href="https://www.youtube.com/@cppshane">YouTube channel</a></li>
   <li>💬 Ping me via <a href="mailto:shane@shaneduffy.io">Email</a> or <a href="https://twitter.com/cppshane">Twitter</a></li>
   <li>☕ Buy me a  <a href="https://www.buymeacoffee.com/cppshane">coffee</a></li>
