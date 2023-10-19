@@ -1,4 +1,4 @@
-
+*“... and if you gaze into the code, the code gazes also into you.”*
 <img align="left" src="https://cdn.shaneduffy.io/shaneduffy/miku.gif" />
 <h2>🚀 <a href="https://shaneduffy.io">shaneduffy.io</a></h2>
 <ul>
