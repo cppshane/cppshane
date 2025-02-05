@@ -1,6 +1,6 @@
 *“... and if you gaze into the code, the code gazes also into you.”*
 <img align="left" src="https://cdn.shaneduffy.io/shaneduffy/miku.gif" />
-<h2>🚀 <a href="https://shaneduffy.io">shaneduffy.io</a></h2>
+<h3>🚀 <a href="https://shaneduffy.io">shaneduffy.io</a></h3>
 <ul>
   <li>⚒️ C# / C++ / JS / TS / Angular / HTML / CSS </li>
   <li>🎓 Learning Blazor / <a href="https://ipfs.tech/">IPFS</a> / <a href="https://github.com/orbitdb">OrbitDB</a> </li>
