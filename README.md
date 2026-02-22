@@ -2,8 +2,8 @@
 <img align="left" src="https://cdn.shaneduffy.io/shaneduffy/miku.gif" />
 <h3>🚀 <a href="https://shaneduffy.io">shaneduffy.io</a></h3>
 <ul>
-  <li>⚒️ C# / C++ / JS / TS / Angular / HTML / CSS </li>
-  <li>🎓 Learning Blazor / <a href="https://ipfs.tech/">IPFS</a> / <a href="https://github.com/orbitdb">OrbitDB</a> </li>
+  <li>⚒️ C# / C++ / Angular </li>
+  <li>🎓 Learning <a href="https://modelcontextprotocol.io/">MCP</a> / <a href="https://ipfs.tech/">IPFS</a> / <a href="https://github.com/orbitdb">OrbitDB</a> </li>
   <li>🧠 Want to learn <a href="https://python.langchain.com/en/latest/index.html">LangChain</a> /  Rust / Tauri</li>
   <li>🎥 Started a <a href="https://www.youtube.com/@cppshane">YouTube channel</a></li>
   <li>💬 Ping me via <a href="mailto:shane@shaneduffy.io">Email</a> or <a href="https://twitter.com/cppshane">Twitter</a></li>
