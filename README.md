@@ -12,5 +12,5 @@
   <li>🔑 GPG: <code><a href="https://github.com/cppshane.gpg">0B203FDFFD1E9EC8</a></code></li>
 </ul>
 <a align="center" href="https://www.youtube.com/watch?v=wM-QeXh4C9o">
- <img src="https://cdn.shaneduffy.io/misc/github-embed-2.png" alt="Shane's latest video" width="100%"/>
+ <img src="https://cdn.shaneduffy.io/misc/github-embed-3.png" alt="Shane's latest video" width="100%"/>
 </a>
